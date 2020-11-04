@@ -1,0 +1,109 @@
+season,race,horse_no,horse,jockey,trainer,class,track,location,actual_weight,draw,distance_m,win_odds,date
+2020/2021,1,1,TINKER BELLE,N Callan,D E Ferraris,Class 5,"TURF - ""C+3"" Course",Happy Valley,133,5,1000,49,28/10/2020
+2020/2021,1,2,EVERBRAVE,C Schofield,K L Man,Class 5,"TURF - ""C+3"" Course",Happy Valley,132,9,1000,15,28/10/2020
+2020/2021,1,3,SPEEDY OPTIMIST,Z Purton,C H Yip,Class 5,"TURF - ""C+3"" Course",Happy Valley,131,11,1000,7.8,28/10/2020
+2020/2021,1,4,HAPPY WINNER,C Y Ho,C W Chang,Class 5,"TURF - ""C+3"" Course",Happy Valley,127,10,1000,32,28/10/2020
+2020/2021,1,5,STRATHCLYDE,C Wong,A T Millard,Class 5,"TURF - ""C+3"" Course",Happy Valley,127,12,1000,33,28/10/2020
+2020/2021,1,6,U W BROTHER,J Moreira,Y S Tsui,Class 5,"TURF - ""C+3"" Course",Happy Valley,125,1,1000,3.0,28/10/2020
+2020/2021,1,7,CHUNGHWA JINGSHEN,C L Chau,L Ho,Class 5,"TURF - ""C+3"" Course",Happy Valley,124,8,1000,6.7,28/10/2020
+2020/2021,1,8,AURORA STEED,K Teetan,C Fownes,Class 5,"TURF - ""C+3"" Course",Happy Valley,120,3,1000,7.0,28/10/2020
+2020/2021,1,9,FLYING MONKEY,A Badel,T P Yung,Class 5,"TURF - ""C+3"" Course",Happy Valley,116,7,1000,7.2,28/10/2020
+2020/2021,1,10,LA BOMBA,M L Yeung,K L Man,Class 5,"TURF - ""C+3"" Course",Happy Valley,116,2,1000,12,28/10/2020
+2020/2021,1,11,SHOW MISSION,M Chadwick,C W Chang,Class 5,"TURF - ""C+3"" Course",Happy Valley,113,4,1000,16,28/10/2020
+2020/2021,1,12,TARGET FINDER,H T Mo,C W Chang,Class 5,"TURF - ""C+3"" Course",Happy Valley,113,6,1000,27,28/10/2020
+2020/2021,2,1,YES WE CAN,C Schofield,T P Yung,Class 5,"TURF - ""C+3"" Course",Happy Valley,133,3,1800,6.3,28/10/2020
+2020/2021,2,2,GENERAL DINO,N Callan,R Gibson,Class 5,"TURF - ""C+3"" Course",Happy Valley,132,2,1800,20,28/10/2020
+2020/2021,2,3,PRESIDENT STAR,M Chadwick,C S Shum,Class 5,"TURF - ""C+3"" Course",Happy Valley,132,11,1800,16,28/10/2020
+2020/2021,2,4,BABY STORM,C L Chau,L Ho,Class 5,"TURF - ""C+3"" Course",Happy Valley,126,9,1800,15,28/10/2020
+2020/2021,2,5,GREAT SMART,J Moreira,K L Man,Class 5,"TURF - ""C+3"" Course",Happy Valley,125,1,1800,3.6,28/10/2020
+2020/2021,2,6,HAPPY HOUR,B Shinn,C H Yip,Class 5,"TURF - ""C+3"" Course",Happy Valley,125,12,1800,49,28/10/2020
+2020/2021,2,7,KANBEKI MOLLY,C Wong,A T Millard,Class 5,"TURF - ""C+3"" Course",Happy Valley,125,10,1800,58,28/10/2020
+2020/2021,2,8,MASTER ROMAN,M F Poon,W Y So,Class 5,"TURF - ""C+3"" Course",Happy Valley,125,7,1800,9.1,28/10/2020
+2020/2021,2,9,HEALTHY TREASURE,K C Leung,P O'Sullivan,Class 5,"TURF - ""C+3"" Course",Happy Valley,123,6,1800,37,28/10/2020
+2020/2021,2,10,STRAPPING BAUHINIA,C Y Ho,Y S Tsui,Class 5,"TURF - ""C+3"" Course",Happy Valley,123,4,1800,7.6,28/10/2020
+2020/2021,2,11,GREEN GENERATION,Z Purton,C W Chang,Class 5,"TURF - ""C+3"" Course",Happy Valley,122,5,1800,4.4,28/10/2020
+2020/2021,2,12,ART OF RAW,K Teetan,C W Chang,Class 5,"TURF - ""C+3"" Course",Happy Valley,116,8,1800,14,28/10/2020
+2020/2021,3,1,BULLISH BROTHER,C L Chau,A S Cruz,Class 4,"TURF - ""C+3"" Course",Happy Valley,133,8,1200,10,28/10/2020
+2020/2021,3,2,WHAT A LEGEND,C Schofield,K H Ting,Class 4,"TURF - ""C+3"" Course",Happy Valley,131,1,1200,3.5,28/10/2020
+2020/2021,3,3,LUCKY QUALITY,J Moreira,C Fownes,Class 4,"TURF - ""C+3"" Course",Happy Valley,128,7,1200,3.2,28/10/2020
+2020/2021,3,4,SUN SUN FA FA,B Shinn,W Y So,Class 4,"TURF - ""C+3"" Course",Happy Valley,124,10,1200,36,28/10/2020
+2020/2021,3,5,CARRY THE DIAMOND,Z Purton,R Gibson,Class 4,"TURF - ""C+3"" Course",Happy Valley,123,5,1200,6.3,28/10/2020
+2020/2021,3,6,HOT CHILI PEPPER,K C Leung,C S Shum,Class 4,"TURF - ""C+3"" Course",Happy Valley,123,6,1200,39,28/10/2020
+2020/2021,3,7,THE ELITES,K H Chan,F C Lor,Class 4,"TURF - ""C+3"" Course",Happy Valley,120,4,1200,82,28/10/2020
+2020/2021,3,8,GINTOKI,A Badel,T P Yung,Class 4,"TURF - ""C+3"" Course",Happy Valley,119,2,1200,8.9,28/10/2020
+2020/2021,3,9,ROSSE SCARPE,H W Lai,K L Man,Class 4,"TURF - ""C+3"" Course",Happy Valley,117,11,1200,73,28/10/2020
+2020/2021,3,10,DESTINE JEWELLERY,K Teetan,J Size,Class 4,"TURF - ""C+3"" Course",Happy Valley,116,12,1200,46,28/10/2020
+2020/2021,3,11,SUPER EIGHTEEN,C Wong,A T Millard,Class 4,"TURF - ""C+3"" Course",Happy Valley,115,9,1200,10,28/10/2020
+2020/2021,3,12,RUN THE TABLE,M L Yeung,K W Lui,Class 4,"TURF - ""C+3"" Course",Happy Valley,114,3,1200,18,28/10/2020
+2020/2021,4,1,HARRIER JET,Z Purton,P O'Sullivan,Class 4,"TURF - ""C+3"" Course",Happy Valley,133,9,1200,8.7,28/10/2020
+2020/2021,4,2,WHISKEY NEAT,J Moreira,C Fownes,Class 4,"TURF - ""C+3"" Course",Happy Valley,128,7,1200,3.3,28/10/2020
+2020/2021,4,3,WON BALL,H N Wong,D J Hall,Class 4,"TURF - ""C+3"" Course",Happy Valley,128,12,1200,62,28/10/2020
+2020/2021,4,4,HAPPY TIME,B Shinn,W Y So,Class 4,"TURF - ""C+3"" Course",Happy Valley,127,11,1200,11,28/10/2020
+2020/2021,4,5,SPRINT FORWARD,C L Chau,D A Hayes,Class 4,"TURF - ""C+3"" Course",Happy Valley,126,4,1200,4.5,28/10/2020
+2020/2021,4,6,PRECISION DREAM,A Badel,T P Yung,Class 4,"TURF - ""C+3"" Course",Happy Valley,125,2,1200,71,28/10/2020
+2020/2021,4,7,SPLIT OF A SECOND,M F Poon,L Ho,Class 4,"TURF - ""C+3"" Course",Happy Valley,122,1,1200,6.5,28/10/2020
+2020/2021,4,8,HAPPILY FRIENDS,C Schofield,K H Ting,Class 4,"TURF - ""C+3"" Course",Happy Valley,121,3,1200,33,28/10/2020
+2020/2021,4,9,SUPREME PLUS,K Teetan,F C Lor,Class 4,"TURF - ""C+3"" Course",Happy Valley,120,8,1200,5.3,28/10/2020
+2020/2021,4,10,FRESH POWER,H T Mo,Y S Tsui,Class 4,"TURF - ""C+3"" Course",Happy Valley,118,6,1200,53,28/10/2020
+2020/2021,4,11,FANTASTIC FABIO,V Borges,C H Yip,Class 4,"TURF - ""C+3"" Course",Happy Valley,114,10,1200,22,28/10/2020
+2020/2021,4,12,MANNA FROM HEAVEN,M L Yeung,K L Man,Class 4,"TURF - ""C+3"" Course",Happy Valley,114,5,1200,45,28/10/2020
+2020/2021,5,1,CHAMPION SUPREME,T Piccone,Y S Tsui,Class 3,"TURF - ""C+3"" Course",Happy Valley,133,12,1650,17,28/10/2020
+2020/2021,5,2,NABOO STAR,C Y Ho,C Fownes,Class 3,"TURF - ""C+3"" Course",Happy Valley,130,3,1650,3.6,28/10/2020
+2020/2021,5,3,CINQUANTE CINQ,C L Chau,T P Yung,Class 3,"TURF - ""C+3"" Course",Happy Valley,129,1,1650,6.4,28/10/2020
+2020/2021,5,4,REGENCY BO BO,K Teetan,C S Shum,Class 3,"TURF - ""C+3"" Course",Happy Valley,129,8,1650,21,28/10/2020
+2020/2021,5,5,FLYING SWORD,Z Purton,A S Cruz,Class 3,"TURF - ""C+3"" Course",Happy Valley,126,4,1650,7.0,28/10/2020
+2020/2021,5,6,PRINCE OF FROG,M Chadwick,L Ho,Class 3,"TURF - ""C+3"" Course",Happy Valley,124,9,1650,11,28/10/2020
+2020/2021,5,7,LEAP OF FAITH,J Moreira,J Size,Class 3,"TURF - ""C+3"" Course",Happy Valley,119,7,1650,5.4,28/10/2020
+2020/2021,5,8,HELLO BEAUTY,C Schofield,K L Man,Class 3,"TURF - ""C+3"" Course",Happy Valley,118,2,1650,38,28/10/2020
+2020/2021,5,9,SUMSTREETSUMWHERE,M F Poon,D J Hall,Class 3,"TURF - ""C+3"" Course",Happy Valley,117,11,1650,19,28/10/2020
+2020/2021,5,10,SUPERBELLA,K C Leung,F C Lor,Class 3,"TURF - ""C+3"" Course",Happy Valley,117,5,1650,36,28/10/2020
+2020/2021,5,11,BRAVE KING,A Badel,D J Whyte,Class 3,"TURF - ""C+3"" Course",Happy Valley,116,6,1650,8.2,28/10/2020
+2020/2021,5,12,BEST ALLIANCE,M L Yeung,D J Whyte,Class 3,"TURF - ""C+3"" Course",Happy Valley,115,10,1650,27,28/10/2020
+2020/2021,6,1,REGENCY MASTER,Z Purton,C S Shum,Class 4,"TURF - ""C+3"" Course",Happy Valley,133,11,1650,4.9,28/10/2020
+2020/2021,6,2,KING'S RACE,K Teetan,K H Ting,Class 4,"TURF - ""C+3"" Course",Happy Valley,129,5,1650,9.8,28/10/2020
+2020/2021,6,3,FAITHFUL TRINITY,V Borges,W Y So,Class 4,"TURF - ""C+3"" Course",Happy Valley,128,2,1650,6.4,28/10/2020
+2020/2021,6,4,AMAZING LUCK,N Callan,P O'Sullivan,Class 4,"TURF - ""C+3"" Course",Happy Valley,126,12,1650,35,28/10/2020
+2020/2021,6,5,MALDIVES,B Shinn,D J Hall,Class 4,"TURF - ""C+3"" Course",Happy Valley,126,10,1650,12,28/10/2020
+2020/2021,6,6,PLAY WISE,M F Poon,C H Yip,Class 4,"TURF - ""C+3"" Course",Happy Valley,126,4,1650,5.6,28/10/2020
+2020/2021,6,7,DIONYSUS COLLIN,T Piccone,K W Lui,Class 4,"TURF - ""C+3"" Course",Happy Valley,125,9,1650,22,28/10/2020
+2020/2021,6,8,FEARLESS FIRE,C L Chau,D A Hayes,Class 4,"TURF - ""C+3"" Course",Happy Valley,124,7,1650,15,28/10/2020
+2020/2021,6,9,SHANGHAI GRACE,C Schofield,Y S Tsui,Class 4,"TURF - ""C+3"" Course",Happy Valley,122,1,1650,9.8,28/10/2020
+2020/2021,6,10,CALIFORNIA LEGEND,M Chadwick,A S Cruz,Class 4,"TURF - ""C+3"" Course",Happy Valley,118,6,1650,7.8,28/10/2020
+2020/2021,6,11,HAPPY ICHIBAN,C Y Ho,D J Whyte,Class 4,"TURF - ""C+3"" Course",Happy Valley,118,3,1650,13,28/10/2020
+2020/2021,6,12,V CHEVALIERS,A Badel,K L Man,Class 4,"TURF - ""C+3"" Course",Happy Valley,116,8,1650,18,28/10/2020
+2020/2021,7,1,STORM WARNINGS,Z Purton,D J Whyte,Class 3,"TURF - ""C+3"" Course",Happy Valley,133,6,1200,13,28/10/2020
+2020/2021,7,2,SERIOUS LIAISON,M F Poon,D J Hall,Class 3,"TURF - ""C+3"" Course",Happy Valley,130,5,1200,48,28/10/2020
+2020/2021,7,3,MIG ENERGY,C L Chau,A S Cruz,Class 3,"TURF - ""C+3"" Course",Happy Valley,128,8,1200,4.9,28/10/2020
+2020/2021,7,4,STRIVE FOR GLORY,N Callan,F C Lor,Class 3,"TURF - ""C+3"" Course",Happy Valley,128,7,1200,48,28/10/2020
+2020/2021,7,5,SUPER COMMANDER,K Teetan,A T Millard,Class 3,"TURF - ""C+3"" Course",Happy Valley,127,10,1200,50,28/10/2020
+2020/2021,7,6,SKY DARCI,J Moreira,C Fownes,Class 3,"TURF - ""C+3"" Course",Happy Valley,126,12,1200,2.8,28/10/2020
+2020/2021,7,7,HARDLY SWEARS,A Badel,K H Ting,Class 3,"TURF - ""C+3"" Course",Happy Valley,122,1,1200,5.6,28/10/2020
+2020/2021,7,8,MEHBOOB,M Chadwick,P O'Sullivan,Class 3,"TURF - ""C+3"" Course",Happy Valley,121,2,1200,9.3,28/10/2020
+2020/2021,7,9,WINSTON'S LAD,C Y Ho,K W Lui,Class 3,"TURF - ""C+3"" Course",Happy Valley,119,11,1200,22,28/10/2020
+2020/2021,7,10,HAPPY FORTUNE,H T Mo,L Ho,Class 3,"TURF - ""C+3"" Course",Happy Valley,118,4,1200,37,28/10/2020
+2020/2021,7,11,WINNING ENDEAVOUR,H W Lai,D E Ferraris,Class 3,"TURF - ""C+3"" Course",Happy Valley,118,9,1200,8.9,28/10/2020
+2020/2021,7,12,NEXTMODEL,V Borges,T P Yung,Class 3,"TURF - ""C+3"" Course",Happy Valley,117,3,1200,20,28/10/2020
+2020/2021,8,1,TORNADO TWIST,Z Purton,F C Lor,Class 3,"TURF - ""C+3"" Course",Happy Valley,133,4,1200,5.9,28/10/2020
+2020/2021,8,2,FALCON TURBO,K C Leung,A T Millard,Class 3,"TURF - ""C+3"" Course",Happy Valley,127,7,1200,12,28/10/2020
+2020/2021,8,3,ISLAND SHINE,T Piccone,P F Yiu,Class 3,"TURF - ""C+3"" Course",Happy Valley,127,12,1200,11,28/10/2020
+2020/2021,8,4,WIND N GRASS,K Teetan,J Size,Class 3,"TURF - ""C+3"" Course",Happy Valley,127,2,1200,5.7,28/10/2020
+2020/2021,8,5,GOOD BEAUTY,C Y Ho,K L Man,Class 3,"TURF - ""C+3"" Course",Happy Valley,126,6,1200,25,28/10/2020
+2020/2021,8,6,SHAMPORT,J Moreira,C Fownes,Class 3,"TURF - ""C+3"" Course",Happy Valley,126,9,1200,4.5,28/10/2020
+2020/2021,8,7,STANLEY PARK,C L Chau,D E Ferraris,Class 3,"TURF - ""C+3"" Course",Happy Valley,124,11,1200,8.3,28/10/2020
+2020/2021,8,8,BABY,V Borges,K H Ting,Class 3,"TURF - ""C+3"" Course",Happy Valley,123,10,1200,32,28/10/2020
+2020/2021,8,9,LE TERROIR,M F Poon,K W Lui,Class 3,"TURF - ""C+3"" Course",Happy Valley,121,8,1200,12,28/10/2020
+2020/2021,8,10,HARMONY N HOME,A Badel,C S Shum,Class 3,"TURF - ""C+3"" Course",Happy Valley,119,1,1200,11,28/10/2020
+2020/2021,8,11,TELECOM JAC,N Callan,W Y So,Class 3,"TURF - ""C+3"" Course",Happy Valley,119,3,1200,12,28/10/2020
+2020/2021,8,12,CHIKORITA,M Chadwick,C W Chang,Class 3,"TURF - ""C+3"" Course",Happy Valley,115,5,1200,22,28/10/2020
+2020/2021,9,1,COLUMBUS COUNTY,J Moreira,C Fownes,Class 2,"TURF - ""C+3"" Course",Happy Valley,132,1,1800,5.0,28/10/2020
+2020/2021,9,2,RELIABLE TEAM,Z Purton,F C Lor,Class 2,"TURF - ""C+3"" Course",Happy Valley,131,5,1800,6.7,28/10/2020
+2020/2021,9,3,STAR SHINE,T Piccone,K W Lui,Class 2,"TURF - ""C+3"" Course",Happy Valley,130,10,1800,11,28/10/2020
+2020/2021,9,4,ENJOYING,C Y Ho,D J Whyte,Class 2,"TURF - ""C+3"" Course",Happy Valley,128,2,1800,14,28/10/2020
+2020/2021,9,5,INSAYSHABLE,N Callan,Y S Tsui,Class 2,"TURF - ""C+3"" Course",Happy Valley,127,7,1800,10,28/10/2020
+2020/2021,9,6,AMAZING ONE PLUS,K C Leung,C S Shum,Class 2,"TURF - ""C+3"" Course",Happy Valley,125,8,1800,7.0,28/10/2020
+2020/2021,9,7,BEAR AGAIN,V Borges,D E Ferraris,Class 2,"TURF - ""C+3"" Course",Happy Valley,120,11,1800,25,28/10/2020
+2020/2021,9,8,ENRICHMENT,C Schofield,J Size,Class 2,"TURF - ""C+3"" Course",Happy Valley,120,4,1800,12,28/10/2020
+2020/2021,9,9,AMAZING BEATS,M Chadwick,P O'Sullivan,Class 2,"TURF - ""C+3"" Course",Happy Valley,119,9,1800,15,28/10/2020
+2020/2021,9,10,PACKING WALTHAM,K Teetan,A S Cruz,Class 2,"TURF - ""C+3"" Course",Happy Valley,119,3,1800,8.0,28/10/2020
+2020/2021,9,11,TIANCHI MONSTER,M F Poon,W Y So,Class 2,"TURF - ""C+3"" Course",Happy Valley,119,6,1800,8.5,28/10/2020
+2020/2021,9,12,KYRUS UNICORN,M L Yeung,C W Chang,Class 2,"TURF - ""C+3"" Course",Happy Valley,116,12,1800,23,28/10/2020
