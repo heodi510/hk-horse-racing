@@ -1,0 +1,8 @@
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+pandas==1.0.5
+numpy==1.18.5
+seaborn==0.10.1
+fastai==1.0.61
+matplotlib==3.2.2
+streamlit==0.69.1
