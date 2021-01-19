@@ -12,6 +12,19 @@ This is the web application file. The prediction model is loaded and Streamlit i
 2. **nbs**\
 This folder is storing all jupyter notebooks extracting/transforming/generating data which using for training deep learning model.
 
+  * **Data Collection**
+    - extract_sch_from_csv.ipynb: for generating schedule csv file from raw txt file
+    - extract_sch_from_pdf.ipynb: for generating schedule csv file from pdf schedule
+    - web_scrap_performance.ipynb: for scrapping data from historical performance 
+    - web_scrapping_coming_race.ipynb: for scrapping data from coming race 
+    
+  * **Feature Engineering**
+    - merge_csv.ipynb: for merging csv files from web_scrap_performance.ipynb
+    - data_cleaning.ipynb: for cleaning the merged csv file and tranform file into 
+    
+  * **Model Training**
+    - tabular_learner.ipynb: for training dnn model using fastai liberary
+
 3. **data**\
 This folder is storing all csvs of essential data including schedule of each season, jockey historical data, trainer historial data, preformance of each season
 
